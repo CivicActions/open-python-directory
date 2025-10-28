@@ -7,6 +7,8 @@ assignees: jonbot
 
 ---
 
+Please fill this out to have your Python library added to the Open Python Directory.
+
 **What is the name of your library?**
 
 
