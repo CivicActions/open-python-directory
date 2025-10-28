@@ -1,22 +1,30 @@
 ---
 name: Directory Addition Request
 about: Fill this out to have your Python library added to the Open Python Directory.
-title: ''
+title: Directory Addition Request
 labels: ''
-assignees: ''
+assignees: jonbot
 
 ---
 
-## What is the name of your library?
+**What is the name of your library?**
 
 
-## Please briefly describe your library in 1-3 sentences.
 
 
-## Link to your public source code (e.g., on GitHub, GitLab, BitBucket, etc.):
+**Please briefly describe your library in 1-3 sentences.**
 
 
-## Name of your organization (if applicable):
 
 
-## Any other information you would like to include?
+**Link to your public source code (e.g., on GitHub, GitLab, BitBucket, etc.):**
+
+
+
+
+**Name of your organization (if applicable):**
+
+
+
+
+**Any other information you would like to include?**
