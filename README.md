@@ -35,7 +35,7 @@ This is a template application that can be used to quickly create an API using P
 _Contributed by [Nava](https://www.navapbc.com/)._
 
 
-<em>[Request an addition to the Directory](https://github.com/CivicActions/open-python-directory/issues/new?template=directory-addition-request.md)</em>
+<em>[Contribute to the Directory](https://github.com/CivicActions/open-python-directory/issues/new?template=directory-addition-request.md)</em>
 
 <hr />
 Supported by <img width="150" alt="The CivicActions logo" src="https://github.com/user-attachments/assets/eb08f270-7d86-45a6-b7c7-b3ce0b79faf4" />
