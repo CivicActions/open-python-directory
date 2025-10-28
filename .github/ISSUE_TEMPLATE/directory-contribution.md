@@ -1,7 +1,7 @@
 ---
-name: Directory Addition Request
+name: Directory Contribution
 about: Fill this out to have your Python library added to the Open Python Directory.
-title: Directory Addition Request
+title: Directory Contribution
 labels: ''
 assignees: jonbot
 
