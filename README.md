@@ -10,7 +10,7 @@ This repository outlines processes and includes tools used for interpreting data
 This project attempts to map the organization of the US Federal Government by gathering and consolidating information from various directories.
 
 * [Argus](https://github.com/huntridge-labs/argus/)  
-Argus is a CI/CD pipeline plugin that brings “a hundred eyes” to your project, combining leading open source security tools into a scalable, automated, continuous security pipeline. Argus supports emerging compliance profiles including FedRAMP 20X and NIST, as well as custom-defined compliance frameworks, to provide continus visibility into a system's security posture.  
+Argus is a CI/CD pipeline plugin that brings “a hundred eyes” to your project, combining leading open source security tools into a scalable, automated, continuous security pipeline. Argus supports emerging compliance profiles including FedRAMP 20X and NIST, as well as custom-defined compliance frameworks, to provide continuous visibility into a system's security posture.  
 _Contributed by [Huntridge Labs](https://www.huntridgelabs.com/)._
 
 * [Comet-API](https://github.com/MetroStar/comet-api)  
