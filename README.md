@@ -9,6 +9,9 @@ This repository outlines processes and includes tools used for interpreting data
 * [AllUSGov](https://github.com/CivicActions/allusgov)  
 This project attempts to map the organization of the US Federal Government by gathering and consolidating information from various directories.
 
+* [Argus] (https://github.com/huntridge-labs/argus/)
+Argus is a CI/CD pipeline plugin that brings “a hundred eyes” to your project, combining leading open source security tools into a scalable, automated, continuous security pipeline. Argus supports emerging compliance profiles including FedRAMP 20X and NIST, as well as custom-defined compliance frameworks, to provide continus visibility into a system's security posture.
+
 * [Comet-API](https://github.com/MetroStar/comet-api)  
 The goal of this project is to provide a Python-based starter API, which comes pre-configured with tools supporting the accelerated development of both Comet as well as general python APIs.  
 _Contributed by [Metrostar](https://www.metrostar.com/)._
