@@ -41,6 +41,31 @@ The CivicActions SSP Toolkit is a collection of Python scripts and markdown and 
 This is a template application that can be used to quickly create an API using Python and the Flask framework.  
 _Contributed by [Nava](https://www.navapbc.com/)._
 
+* [Datapusher+](https://github.com/dathere/datapusher-plus)  
+A fifth-generation data ingestion and transformation tool built for CKAN, Datapusher+ is designed to handle the complexities of modern data pipelines. It supports a wide range of data formats and sources, and provides robust features for data validation, transformation, and loading into CKAN.
+It features configurable FAIRification, with an AI-enabled metadata suggestion engine, built-in support for DCAT-US v3, and is designed to be easily extensible to support additional metadata standards and agency-specific metadata requirements.  
+_Contributed by [datHere](https://www.dathere.com/)._
+
+* [qsv Data Wrangling Toolkit](https://github.com/dathere/qsv)  
+The blazing fast, all-in-one toolkit for data wrangling, analysis, and transformation that datHere found was common in its open data deployments. With a focus on speed (e.g. it compiles 48 statistical measure for a million row, 520mb, 41-column CSV in 0.563 seconds) - qsv provides a suite of command-line tools for working with tabular data files, including filtering, sorting, aggregating, and more. Whether you're dealing with small datasets or large cloud-based data, qsv is designed to handle your data processing needs with ease. Powers the FAIRification engine in Datapusher+.  
+_Contributed by [datHere](https://www.dathere.com/)._
+
+* [qsv MCP Server & Claude Cowork Plugin](https://github.com/dathere/qsv)
+qsv is a very powerful data wrangling toolkit, but it can be intimidating for users who are not familiar with command-line tools or data processing concepts. To make qsv more accessible to a wider audience, datHere has developed an [MCP Server](https://github.com/dathere/qsv/blob/master/.claude/skills/README-MCP.md) and a [Claude Cowork Plugin](https://github.com/dathere/qsv/blob/master/.claude/skills/docs/guides/START_HERE.md) that allow users to perform complex data analysis of large datasets using natural language queries.  
+Specifically targeted for Evidence-based Policymaking use cases in the [public sector](https://dathere.github.io/peoples-api-demos/) - it allows business and policy analysts who may not be familiar with typical data science tools, to leverage advanced data processing with ease.  
+The Claude Cowork plugin has built-in support for the US Census MCP server, BLS MCP server, and the FBI Crime Data MCP server, allowing users to easily add additional context from these high-value data sources.  
+_Contributed by [datHere](https://www.dathere.com/)._  
+
+* [FBI Crime Data MCP Server](https://github.com/dathere/fbi-crime-data-mcp)  
+An MCP server that provides access to the [FBI Crime Data Explorer API](https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/docApi) with smart caching.
+Query crime statistics, arrest data, hate crimes, NIBRS incidents, law enforcement employment, and more — directly from any MCP-compatible client.  
+_Contributed by [datHere](https://www.dathere.com/)._
+
+* [CKAN Ecosystem Catalog](https://github.com/ckan/ckanext-pose_ecosystem_catalog)  
+Explore the [CKAN Ecosystem](https://ecosystem.ckan.org) - a comprehensive catalog of sites, tools, extensions, and resources for the CKAN Data Management System (DMS) platform. And of course, the catalog is built using CKAN itself!  
+Developed by University of Pittsburgh and datHere as part of the [NSF Pathways to Enable Open Source Ecosystems (POSE) project](https://ckan.org/blog/boost-for-ckan-nsf-investment-announced/) and contributed to the CKAN community.  
+_Contributed by [datHere](https://www.dathere.com/)._
+
 
 <em>[Contribute to the Directory](https://github.com/CivicActions/open-python-directory/issues/new?template=directory-contribution.md)</em>
 
