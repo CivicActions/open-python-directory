@@ -22,8 +22,8 @@ Python library for reading/writing compliance as code:
   * Read / write OpenControl repositories
   * Serialize OSCAL SSP and component definitions to JSON
 
-* [keychain-cli](https://github.com/CivicActions/keychain-cli)
-`keychain-cli` is a small, security-focused command-line tool for storing secrets in the macOS Keychain and injecting them into a single command only when needed. It is designed for local development workflows where you need API tokens, database passwords, or other environment variables available to an application, but do not want those values written to disk or permanently exported into your shell session.
+* [keychain-cli](https://github.com/CivicActions/keychain-cli)  
+keychain-cli is a small, security-focused command-line tool for storing secrets in the macOS Keychain and injecting them into a single command only when needed. It is designed for local development workflows where you need API tokens, database passwords, or other environment variables available to an application, but do not want those values written to disk or permanently exported into your shell session.
 
 * [m2py](https://github.com/CivicActions/m2py)  
 m2py is a MUMPS-to-Python transpiler that uses textX to parse MUMPS source code into an Abstract Semantic Graph (ASG), enrich it through multi-pass analysis, and generate executable Python code, with a runtime library to support MUMPS semantics.
